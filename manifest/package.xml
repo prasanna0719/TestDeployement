@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>PipeDrive_Integration</members>
+        <members>PipedrivePersonResponse</members>
+        <members>PipedriveResponse</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Account.PipeDriveOrg</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
+        <members>Account-ac1</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>PipeDrive_URL</members>
+        <members>Pipe_Drive_Person</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>PipeDriveURL</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>Account.Pipe_Drive_Organization__c</members>
+        <members>Contact.Pipe_Drive_Person__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>57.0</version>
+</Package>
